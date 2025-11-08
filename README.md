@@ -60,7 +60,7 @@ git clone https://github.com/Jonasodiq/DiceGame
 ### Under development.
 
 The project is actively under construction - new features, improvements and bug fixes are being added continuously.
-> 💬 Ge gärna feedback eller förslag på förbättringar! >
+> 💬 Please provide feedback or suggestions for improvements! >
 
 
 ## 📸 Screenshots
