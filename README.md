@@ -49,7 +49,6 @@ You can also customize your goal score, sound settings, and color theme via a sl
 
 ```bash 
 git clone https://github.com/Jonasodiq/DiceGame 
-pip install -r requirements.txt
 ```
 2. Open the project in Xcode 16 or later.  
 3. Build and run on simulator or physical iPhone device.
